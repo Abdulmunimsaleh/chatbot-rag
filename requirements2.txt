@@ -1,0 +1,9 @@
+Flask
+Flask-cors
+weaviate-client
+langchain
+sentence-transformers
+tiktoken
+pypdf
+rapidocr-onnxruntime
+huggingface-hub
